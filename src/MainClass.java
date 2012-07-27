@@ -6,7 +6,7 @@ public class MainClass {
 	public static void main(String[] args) {
 		Bank bank = new Bank(1000);
 		bank.getSumm();
-
+//i have no idea what i doing
 	}
 
 }
